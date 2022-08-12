@@ -24,6 +24,6 @@ This is a single-page application where users can manage a To-Do list.
 
 ## Preview
 
-**_Page Layout_**
+**_Page layout, adding and deleting tasks_**
 
 <img src="todo.gif">
